@@ -89,3 +89,12 @@
     2.  라우터(Router) 필터 설정 조건 화면 캡처
     3.  실행 로그(History) 리스트 화면 캡처 (성공 메시지 포함)
     4.  실제 발송된 이메일 및 기록된 구글 시트 결과 화면
+    5.  
+    6.  <img width="1862" height="820" alt="자피어 1" src="https://github.com/user-attachments/assets/5f4a8cb1-549b-4c2f-95b8-92f2b296d594" />
+    7. <img width="1504" height="906" alt="메이크2" src="https://github.com/user-attachments/assets/6e3e0cff-3f8d-4178-981b-65387718784a" />
+    8. <img width="1280" height="800" alt="메이크1" src="https://github.com/user-attachments/assets/bcc55a30-866a-4900-b8bc-f511ed98129d" />
+    9. <img width="1899" height="768" alt="자피어 3" src="https://github.com/user-attachments/assets/ad8155d4-8ea6-4761-8f13-d7862ff2c1e3" />
+    10. <img width="702" height="766" alt="자피어 2" src="https://github.com/user-attachments/assets/31b97f25-1638-4334-ab75-f4fa2c8b576b" />
+    11. <img width="1125" height="1589" alt="이메일 자동 발송 캡쳐" src="https://github.com/user-attachments/assets/96aee11a-6275-4d89-bd3b-4148ad5b091b" />
+    12. <img width="1125" height="2436" alt="구글스프레드시트 캡쳐" src="https://github.com/user-attachments/assets/36056fbc-72bb-4f1b-aae8-88ce6b38ff5c" />
+
